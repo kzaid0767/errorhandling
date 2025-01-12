@@ -1,0 +1,27 @@
+{
+  "name": "errorhandling",
+  "version": "1.0.0",
+  "description": "error handling in express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kzaid0767/errorhandling.git"
+  },
+  "keywords": [
+    "errors"
+  ],
+  "author": "Kassim Zaid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kzaid0767/errorhandling/issues"
+  },
+  "homepage": "https://github.com/kzaid0767/errorhandling#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
